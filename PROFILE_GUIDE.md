@@ -45,7 +45,9 @@ Location 可保留 Shenzhen。Website 和公开邮箱填写你愿意公开的真
 
 ## 维护
 
-- 横幅在 `assets/profile-header.svg`，可以直接编辑文字与配色。
+- 默认中文内容在 `README.md`，英文内容在 `README.en.md`；顶部语言入口连接这两个版本，英文版的中文入口返回个人主页。
+- 中文横幅在 `assets/profile-header.zh.svg`，英文横幅在 `assets/profile-header.svg`，可以直接编辑文字与配色。
+- 更新项目介绍时，同时维护中英文版本。
 - 修改展示项目时，同步调整项目介绍与技术栈。
 - GitHub 统计卡片放在折叠区，依赖第三方服务；主页主体使用本仓库的静态内容。
 - 个人资料、置顶、仓库 Description / Topics 需要在对应的 GitHub 设置中单独更新。

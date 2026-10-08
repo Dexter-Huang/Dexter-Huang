@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Dexter Huang — Java, AI applications and full-stack engineering" width="100%" />
+  <strong>中文</strong> | <a href="https://github.com/Dexter-Huang/Dexter-Huang/blob/main/README.en.md">English</a>
+</p>
+<p align="center">
+  <img src="./assets/profile-header.zh.svg" alt="Dexter Huang — Java 后端、AI 应用与全栈开发" width="100%" />
 </p>
 
 <p align="center">
@@ -10,15 +13,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dexter-Huang?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
-  <img src="https://img.shields.io/badge/Based_in-Shenzhen-0F766E?style=flat-square" alt="Based in Shenzhen" />
+  <a href="https://github.com/Dexter-Huang?tab=repositories"><img src="https://img.shields.io/badge/%E6%8E%A2%E7%B4%A2-%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE-2563EB?style=flat-square&amp;logo=github&amp;logoColor=white" alt="探索我的项目" /></a>
+  <img src="https://img.shields.io/badge/%E5%9D%90%E6%A0%87-%E6%B7%B1%E5%9C%B3-0F766E?style=flat-square" alt="坐标深圳" />
 </p>
 
 <a id="about"></a>
 
-## 👋 关于我 · About
+## 👋 关于我
 
-Hi, I'm **Dexter Huang**，坐标深圳。
+你好，我是 **Dexter Huang**，坐标深圳。
 
 在这里记录我的 **Java 后端、AI 应用与全栈开发实践**。从服务端接口、知识库检索到 Web 与桌面端，我关注各个环节如何连接起来，形成可运行的应用。
 
@@ -27,11 +30,11 @@ Hi, I'm **Dexter Huang**，坐标深圳。
 - **产品交付**：记录 Vue / TypeScript 前端、Electron 桌面端与自动化构建实践。
 - **技术探索**：通过独立实验项目了解 GraalVM Native Image 与 Java 原生库调用。
 
-> Java, AI applications, and full-stack engineering — learning by building.
+> 用项目学习技术，把想法做成可运行的应用。
 
 <a id="projects"></a>
 
-## 🚀 项目展示 · Selected Projects
+## 🚀 项目展示
 
 | 项目 | 内容与看点 | 相关技术 |
 | --- | --- | --- |
@@ -44,7 +47,7 @@ Hi, I'm **Dexter Huang**，坐标深圳。
 
 <a id="stack"></a>
 
-## 🛠️ 技术栈 · Toolbox
+## 🛠️ 技术栈
 
 以下技术来自我的公开项目与实验仓库。
 
@@ -65,7 +68,7 @@ Hi, I'm **Dexter Huang**，坐标深圳。
 | 数据与交付 | PostgreSQL · Redis · Docker · GitHub Actions |
 | 运行时实验 | GraalVM Native Image · Java FFM / Panama |
 
-## 🌱 开源与学习 · Open Source & Learning
+## 🌱 开源与学习
 
 除了项目实践，我也通过阅读和实验了解开源工具的设计：
 
@@ -75,21 +78,21 @@ Hi, I'm **Dexter Huang**，坐标深圳。
 
 <a id="connect"></a>
 
-## 🤝 交流与联系 · Connect
+## 🤝 交流与联系
 
 欢迎交流 **Java 后端、AI 应用、RAG / MCP、Web 与桌面端开发**。具体项目的问题或建议，可以在对应仓库中提交 Issue。
 
 - **GitHub**：[Dexter-Huang](https://github.com/Dexter-Huang)
-- **项目导航**：[Repositories](https://github.com/Dexter-Huang?tab=repositories)
+- **项目导航**：[全部仓库](https://github.com/Dexter-Huang?tab=repositories)
 
 <details>
-<summary>📊 GitHub 数据 · Activity & Languages</summary>
+<summary>📊 GitHub 数据与语言分布</summary>
 
 <br />
 
-[![Dexter Huang's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Dexter-Huang&show_icons=true&hide_border=true&theme=transparent)](https://github.com/Dexter-Huang)
+[![Dexter Huang 的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Dexter-Huang&show_icons=true&hide_border=true&theme=transparent)](https://github.com/Dexter-Huang)
 
-[![Languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-Huang&layout=compact&hide_border=true&theme=transparent)](https://github.com/Dexter-Huang?tab=repositories)
+[![公开仓库的语言分布](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-Huang&layout=compact&hide_border=true&theme=transparent)](https://github.com/Dexter-Huang?tab=repositories)
 
 <sub>统计卡片由第三方服务提供。语言分布反映公开仓库的代码构成。</sub>
 
