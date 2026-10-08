@@ -1,103 +1,96 @@
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Dexter Huang — Java, AI applications and full-stack engineering" width="100%" />
+</p>
 
-<!--
-**Dexter-Huang/Dexter-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#about">关于我</a> ·
+  <a href="#projects">项目展示</a> ·
+  <a href="#stack">技术栈</a> ·
+  <a href="#connect">交流与联系</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Dexter-Huang?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Shenzhen-0F766E?style=flat-square" alt="Based in Shenzhen" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 基本信息 Basic Information
-<!--
-前腾讯客户端高级工程师、猿辅导（看云集团）资深客户端工程师。[Google 开发者专家（GDE）](https://g.dev/Dexter-Huang)，Kotlin 方向。
- 
-Former Tencent Senior Android Developer. Now work at Kanyun. Inc. [Google Developer Expert (GDE)](https://g.dev/bennyhuo) in Kotlin.
--->
-<!--
+<a id="about"></a>
 
-# 个人频道 Channels
+## 👋 关于我 · About
 
-* **GitHub**: [Dexter-Huang](https://github.com/Dexter-Huang)
-* **YouTube：[霍丙乾 bennyhuo](https://www.youtube.com/channel/UCt47g8sEoUkI6R855ol3Gdw)**
-* **bilibili：[霍丙乾 bennyhuo](https://space.bilibili.com/28615855)**
-* **知识星球：bennyhuo**
-* **微信公众号：霍丙乾 bennyhuo**
+Hi, I'm **Dexter Huang**，坐标深圳。
 
+在这里记录我的 **Java 后端、AI 应用与全栈开发实践**。从服务端接口、知识库检索到 Web 与桌面端，我关注各个环节如何连接起来，形成可运行的应用。
 
-# 技能概述 Skills
+- **AI 应用**：围绕 Spring AI，探索 Agent、RAG 知识库与 MCP 工具集成。
+- **后端工程**：使用 Java / Spring Boot，实践 PostgreSQL、Redis 与消息队列。
+- **产品交付**：记录 Vue / TypeScript 前端、Electron 桌面端与自动化构建实践。
+- **技术探索**：通过独立实验项目了解 GraalVM Native Image 与 Java 原生库调用。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-Huang&hide=HTML,css,php&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+> Java, AI applications, and full-stack engineering — learning by building.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dexter-Huang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a id="projects"></a>
 
+## 🚀 项目展示 · Selected Projects
 
+| 项目 | 内容与看点 | 相关技术 |
+| --- | --- | --- |
+| **[OpenClaw4j](https://github.com/Dexter-Huang/OpenClaw4j)** | AI 应用与工作流实践，包含 Agent、知识库与工具调用相关模块；后端使用 PostgreSQL / pgvector，并提供 MCP 集成。 | Java · Spring Boot · Spring AI · pgvector · MCP |
+| **[geo-frontend-vue](https://github.com/Dexter-Huang/geo-frontend-vue)** | GEO 前端与桌面端的公开构建镜像，展示 Vue Web 应用、Electron 桌面壳及 Windows / Linux 自动打包流程。 | Vue 3 · TypeScript · Vite · Electron · GitHub Actions |
+| **[redis-mq](https://github.com/Dexter-Huang/redis-mq)** | 基于 Redis 的消息队列实践，包含监听注解、监听器扫描注册与 Spring Boot 自动配置。 | Java · Spring Boot · Redis |
+| **[test-graalvm](https://github.com/Dexter-Huang/test-graalvm)** | Spring Boot 与 GraalVM Native Image 实验，包含 Java FFM / Panama 原生库调用及 MathType 转 LaTeX 相关代码。 | Java · GraalVM · Spring Boot · FFM |
 
-# 出版书籍 Published Books
+**更多作品**：查看 [全部公开仓库](https://github.com/Dexter-Huang?tab=repositories)，或浏览 [geo-webpage](https://github.com/Dexter-Huang/geo-webpage) 中的产品展示页面。
 
+<a id="stack"></a>
 
+## 🛠️ 技术栈 · Toolbox
 
-2020.06 **[《深入理解 Kotlin 协程》](https://item.jd.com/12898592.html)** 
+以下技术来自我的公开项目与实验仓库。
 
-Jun 2020 **[Understanding Kotlin Coroutines](https://item.jd.com/12898592.html)**
+<p>
+  <img src="https://img.shields.io/badge/Java-1E293B?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_AI-416C2B?style=flat-square" alt="Spring AI" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&amp;logo=electron&amp;logoColor=white" alt="Electron" />
+</p>
 
-2023.08 **[《深入实践 Kotlin 元编程》](https://item.jd.com/10081757341486.html)**
+| 方向 | 项目中使用或探索的技术 |
+| --- | --- |
+| 服务端 | Java · Spring Boot · Maven |
+| AI 与检索 | Spring AI · RAG · MCP · pgvector |
+| Web 与桌面 | TypeScript · Vue 3 · React · Vite · Electron |
+| 数据与交付 | PostgreSQL · Redis · Docker · GitHub Actions |
+| 运行时实验 | GraalVM Native Image · Java FFM / Panama |
 
-Aug 2023 **[Kotlin Metaprogramming in Action](https://item.jd.com/10081757341486.html)**
+## 🌱 开源与学习 · Open Source & Learning
 
-# 大会分享 Talks
+除了项目实践，我也通过阅读和实验了解开源工具的设计：
 
-* 2023.05 北京 KUG: **[你想知道的 Jetpack Compose 的编译器黑魔法](https://www.bilibili.com/video/BV1ck4y1j7Pa/)**
-* 2023.04 GDG 社区说: **[如何开发一款 Kotlin 编译器插件？](https://www.bilibili.com/video/BV1Rm4y127hj/)**
-* 2022.09 GDG 社区说: **[KLUE：Kotlin 多平台特性的妙用：统一 JS 调用 Native 函数的体验](https://www.bilibili.com/video/BV1ye4y1Y728)**
-* 2021.11/2021.12 Kotlin 中文大会 & GDG Devfest: **[Kotlin 元编程：从注解处理器 KAPT到符号处理器 KSP](https://www.bilibili.com/video/BV1JY411H7pb)**
-* 2021.07 GDG 社区说: **[Kotlin 编译器插件：我们究竟在期待什么](https://www.bilibili.com/video/BV1Tf4y157ku)**
-* 2020.11 2020 全球移动开发者峰会 & GDG Kotlin Day: **[Kotlin多平台在移动端应用与展望](https://live.csdn.net/room/zxff716/Dl55vGUZ)**
-* 2020.05 2020 GDG Android 11 Meetup: **[Kotlin 协程那些事儿](https://www.bilibili.com/video/BV1MV411z7pM)**
-* 2018.11 2018 JetBrains 北京开发者大会: **[如何优雅的使用 Kotlin Data Class](https://v.qq.com/x/page/n08227okqh9.html)**
-* 2017.11 2017 Android 技术大会: **[效率的抉择 - 将 Kotlin 投入 Android 应用开发当中 ](http://play.itdks.com/watch/3740769?player=)**
+- **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)**：Java AI 应用与 Agent 框架；[我的 Fork](https://github.com/Dexter-Huang/spring-ai-alibaba)。
+- **[Camofox Browser](https://github.com/jo-inc/camofox-browser)**：面向 AI Agent 的浏览器自动化工具；[我的 Fork](https://github.com/Dexter-Huang/camofox-browser)。
+- **[FastGPT](https://github.com/labring/FastGPT)**：知识库问答与可视化工作流；[基于 FastGPT 的实践仓库](https://github.com/Dexter-Huang/myFastgpt)。
 
-- May 2023, Beijing KUG: **[Secrets in the Compiler Plugin of Jetpack Compose You Want to Know](https://www.bilibili.com/video/BV1ck4y1j7Pa/)**
-- Apr 2023, GDG CTalk: **[How to Develop a Kotlin Compiler Plugin?](https://www.bilibili.com/video/BV1Rm4y127hj/)**
-- Sep 2022, GDG CTalk: **[KLUE: Unified Experience of Calling Native Functions from JS with Kotlin Multiplatform](https://www.bilibili.com/video/BV1ye4y1Y728)**
-- Nov & Dec 2021, China Kotlin Conf & GDG Devfest: **[Kotlin Metaprogramming: From Annotation Processor to Symbol Processor](https://www.bilibili.com/video/BV1JY411H7pb)**
-- Jul 2021, GDG CTalk: **[Kotlin Compiler Plugins: What Are We Really Expecting?](https://www.bilibili.com/video/BV1Tf4y157ku)**
-- Nov 2020, Global Mobile Developer Summit & GDG Kotlin Day: **[Kotlin Multiplatform in Mobile Applications and Outlook](https://live.csdn.net/room/zxff716/Dl55vGUZ)**
-- May 2020, GDG Android 11 Meetup: **[All About Kotlin Coroutines](https://www.bilibili.com/video/BV1MV411z7pM)**
-- Nov 2018, JetBrains Beijing Open Day: **[How to Elegant Use Kotlin Data Class](https://v.qq.com/x/page/n08227okqh9.html)**
-- Nov 2017, Android Conf: **[The Choice of Efficiency - Introducing Kotlin into Android App Development](http://play.itdks.com/watch/3740769?player=)**
+<a id="connect"></a>
 
-# 视频教程 Video Tutorials
+## 🤝 交流与联系 · Connect
 
-* 2020.11 慕课网: **[C 语言系统精讲](https://coding.imooc.com/class/463.html)**
-* 2019.11 慕课网: **[新版 Kotlin 入门到精通](https://coding.imooc.com/class/398.html)**
-* 2019.04 慕课网: **[破解 Retrofit](https://www.imooc.com/learn/1128)**
-* 2019.02 慕课网: **[破解Android高级面试](https://coding.imooc.com/class/317.html)**
-* 2018.10 哔哩哔哩: **[注解处理器教程](https://www.bilibili.com/video/BV1RW411m7Hk/)**
-* 2018.06 慕课网: **[基于 GitHub App 业务深度讲解 Kotlin1.2高级特性与框架设计](https://coding.imooc.com/class/232.html)**
-* 2017.06 慕课网: **[Kotlin 系统入门到进阶](http://coding.imooc.com/class/108.html)**
-* 2016.10 **[Kotlin 入门到放弃](https://github.com/enbandari/Kotlin-Tutorials)**
+欢迎交流 **Java 后端、AI 应用、RAG / MCP、Web 与桌面端开发**。具体项目的问题或建议，可以在对应仓库中提交 Issue。
 
-# 相关网站 Related Websites
+- **GitHub**：[Dexter-Huang](https://github.com/Dexter-Huang)
+- **项目导航**：[Repositories](https://github.com/Dexter-Huang?tab=repositories)
 
-**个人主页/Personal Website**：https://www.bennyhuo.com
+<details>
+<summary>📊 GitHub 数据 · Activity & Languages</summary>
 
--->
+<br />
 
-**GitHub**：https://github.com/Dexter-Huang
+[![Dexter Huang's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Dexter-Huang&show_icons=true&hide_border=true&theme=transparent)](https://github.com/Dexter-Huang)
 
-# 技能概述 Skills
+[![Languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-Huang&layout=compact&hide_border=true&theme=transparent)](https://github.com/Dexter-Huang?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-Huang&hide=HTML,css,php&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<sub>统计卡片由第三方服务提供。语言分布反映公开仓库的代码构成。</sub>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dexter-Huang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
+</details>
